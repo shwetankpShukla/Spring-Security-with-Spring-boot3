@@ -1,5 +1,5 @@
 # Spring-Security-using-SpringBoot-3.0
-Microservice Architecture. We will be implementing different libraries and techniques to implement a complete architecture.
+JWT Token implementing by using different libraries and techniques to implement a complete architecture.
 
 Minimal Spring Boot sample app.
 
